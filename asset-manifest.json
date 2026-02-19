@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/polytrader-dashboard/static/css/main.b799164b.css",
-    "main.js": "/polytrader-dashboard/static/js/main.0f1e7883.js",
-    "index.html": "/polytrader-dashboard/index.html",
-    "main.b799164b.css.map": "/polytrader-dashboard/static/css/main.b799164b.css.map",
-    "main.0f1e7883.js.map": "/polytrader-dashboard/static/js/main.0f1e7883.js.map"
+    "main.css": "/kimiclaw-control/static/css/main.4ecfd13c.css",
+    "main.js": "/kimiclaw-control/static/js/main.c268f249.js",
+    "index.html": "/kimiclaw-control/index.html",
+    "main.4ecfd13c.css.map": "/kimiclaw-control/static/css/main.4ecfd13c.css.map",
+    "main.c268f249.js.map": "/kimiclaw-control/static/js/main.c268f249.js.map"
   },
   "entrypoints": [
-    "static/css/main.b799164b.css",
-    "static/js/main.0f1e7883.js"
+    "static/css/main.4ecfd13c.css",
+    "static/js/main.c268f249.js"
   ]
 }
